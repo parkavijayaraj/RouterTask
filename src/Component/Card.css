@@ -1,0 +1,18 @@
+/* const MyComponent = () => {
+  const myComponentStyles = {
+    backgroundColor: 'lightblue',
+    padding: '20px',
+    borderRadius: '5px',
+    textAlign: 'center',
+    boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)',
+  };
+
+  return (
+    <div style={myComponentStyles}>
+      <h1 style={{ color: 'navy' }}>Hello, World!</h1>
+      <p style={{ fontSize: '18px' }}>This is an example of CSS in JSX.</p>
+    </div>
+  );
+};
+
+export default MyComponent; */
