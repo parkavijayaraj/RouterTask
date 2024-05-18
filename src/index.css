@@ -1,25 +1,17 @@
 .navbar-nav a{
- text-decoration: none !important;
- margin: 25px !important;
-}
-img{
-  height: 300px !important;
-  width: 275px !important;
-  margin-top: 8%;
-  margin-left: 30px;
-}
-.card{
-  border-radius: 10px !important;
-  background-image: linear-gradient(to right,rgb(195, 201, 118),rgb(126, 170, 182)) !important;
-  margin-bottom: 20px !important;
-
-}
-.content{
-  font-size: small;
-}
-
-
-
-
-
-
+  text-decoration: none !important;
+  margin: 25px !important;
+ }
+ img{
+   height: 300px !important;
+   width: 275px !important;
+   margin-top: 8%;
+ }
+ .card{
+   border-radius: 10px !important;
+   background-image: linear-gradient(to right,rgb(195, 201, 118),rgb(126, 170, 182)) !important;
+   margin-bottom: 20px !important;
+ }
+ .content{
+   font-size: small;
+ }
